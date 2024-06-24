@@ -7,6 +7,7 @@
 
 论文中的数据集需要向作者申请，所以不会出现在我的仓库中。此处只提供申请地址：https://forms.office.com/r/eZELqSycgn
 关于新的数据集是在gossipcop_v3-1_style_based_fake.json的基础上进行处理，处理代码在course_data_process。
+
 提取的原生数据集：raw_extract_from_style_dataset、新的数据集：new_dataset、负采样数据集：negative_sampling_dataset、中文消融实验数据集：zh_abaltion、英文消融实验数据集：english_abaltion。
 
 ## Code
