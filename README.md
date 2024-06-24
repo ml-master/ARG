@@ -25,4 +25,5 @@
 运行只需执行run_en.sh或者run_zh.sh中的命令即可。
 
 ### Results
-![实验结果图](https://github.com/ml-master/ARG/assets/75562348/8189eb23-0251-4055-9a80-45d3cd33601f)
+![实验结果图](https://github.com/ml-master/ARG/assets/75562348/5da8a85b-291a-4674-94d1-80b73eb273ab)
+
