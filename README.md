@@ -1,6 +1,7 @@
-# ARG ["**Bad Actor, Good Advisor: Exploring the Role of Large Language Models in Fake News Detection**"] AAAI 2024
+# ARG 
 
-官方代码地址： https://arxiv.org/abs/2309.12247
+["**Bad Actor, Good Advisor: Exploring the Role of Large Language Models in Fake News Detection**"] AAAI 2024 https://arxiv.org/abs/2309.12247
+官方代码地址： https://github.com/ictmcg/arg
 
 ## Dataset
 
